@@ -1,0 +1,1 @@
+addSbtPlugin("ru.sberbank.xops.packman" % "sbt-packman" % "0.1-SNAPSHOT")
