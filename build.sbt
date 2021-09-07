@@ -1,4 +1,4 @@
-name := "packmanproject"
+name := "packman-project"
 
 version := "0.1"
 
